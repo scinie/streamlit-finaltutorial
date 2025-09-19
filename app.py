@@ -46,8 +46,6 @@ function_dict = {"sin":np.sin, "cos":np.cos, "tan": np.tan}
 
 
 
-
-with tabs
 col1, col2 = st.columns (2)
 
 with col1:
